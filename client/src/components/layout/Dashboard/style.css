@@ -1,0 +1,9 @@
+p, h4 {
+    color: black;
+}
+
+.jumbotron {
+    margin-top: -10%;
+    height: 25rem;
+    padding: auto;
+}

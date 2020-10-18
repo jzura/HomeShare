@@ -1,0 +1,22 @@
+.jumbotron {
+    margin-top: -15%;
+}
+
+i {
+    color: black;
+
+}
+
+.icons {
+    display: inline-flex;
+    padding: auto;
+    margin: auto;
+}
+
+figure {
+    margin: 10%;
+}
+
+figcaption {
+    color: black;
+}
