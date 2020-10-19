@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "HomeShare",
   "main": "server.js",
+  "homepage": "https://github.com/jzura/HomeShare",
   "scripts": {
     "client-install": "npm install --prefix client",
     "start": "npx nodemon --exec npx babel-node server.js",
